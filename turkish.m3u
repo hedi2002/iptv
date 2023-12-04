@@ -1,0 +1,259 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TRT 4K" tvg-logo="https://imagizer.imageshack.com/img924/552/UNxDdf.png" group-title="TR | ULUSAL",TR: TRT 4K
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/160629.m3u8
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR | TRT 1 FHD" tvg-logo="https://imagizer.imageshack.com/img922/4571/VmZM8y.png" group-title="TR | ULUSAL",TR | TRT 1 FHD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113425.m3u8
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR | TRT1 HD" tvg-logo="https://imagizer.imageshack.com/img922/4571/VmZM8y.png" group-title="TR | ULUSAL",TR | TRT1 HD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113419.m3u8
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR | ATV FHD" tvg-logo="https://imagizer.imageshack.com/img923/596/5wGQVM.png" group-title="TR | ULUSAL",TR | ATV FHD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113428.m3u8
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR | ATV HD" tvg-logo="https://imagizer.imageshack.com/img923/596/5wGQVM.png" group-title="TR | ULUSAL",TR | ATV HD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113427.m3u8
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR |  SHOWTV FHD" tvg-logo="https://imagizer.imageshack.com/img924/956/7vUyHv.png" group-title="TR | ULUSAL",TR |  SHOWTV FHD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113449.m3u8
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR | SHOW TV HD" tvg-logo="https://imagizer.imageshack.com/img924/956/7vUyHv.png" group-title="TR | ULUSAL",TR | SHOW TV HD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113429.m3u8
+#EXTINF:-1 tvg-id="showmax.tr" tvg-name="TR: SHOW MAX HD+" tvg-logo="https://imagizer.imageshack.com/img922/8932/XakUPf.png" group-title="TR | ULUSAL",TR: SHOW MAX HD+
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/199289.m3u8
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR | KANAL D HD" tvg-logo="https://imagizer.imageshack.com/img922/9683/a7zKDi.png" group-title="TR | ULUSAL",TR | KANAL D HD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113423.m3u8
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR | KANAL D  FHD" tvg-logo="https://imagizer.imageshack.com/img922/9683/a7zKDi.png" group-title="TR | ULUSAL",TR | KANAL D  FHD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113431.m3u8
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR | STARTV HD" tvg-logo="https://imagizer.imageshack.com/img924/3654/BUi3z0.png" group-title="TR | ULUSAL",TR | STARTV HD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113446.m3u8
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR | STAR TV FHD" tvg-logo="https://imagizer.imageshack.com/img924/3654/BUi3z0.png" group-title="TR | ULUSAL",TR | STAR TV FHD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113430.m3u8
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR | FOXTV HD" tvg-logo="https://imagizer.imageshack.com/img923/6819/pqacoY.png" group-title="TR | ULUSAL",TR | FOXTV HD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113420.m3u8
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR | FOX TV FHD" tvg-logo="https://imagizer.imageshack.com/img923/6819/pqacoY.png" group-title="TR | ULUSAL",TR | FOX TV FHD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113432.m3u8
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR | TV8 FHD" tvg-logo="https://imagizer.imageshack.com/img924/623/jIaxCR.png" group-title="TR | ULUSAL",TR | TV8 FHD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113444.m3u8
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV8 HD" tvg-logo="https://imagizer.imageshack.com/img924/623/jIaxCR.png" group-title="TR | ULUSAL",TR: TV8 HD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/169160.m3u8
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR | TV 8.5 FHD" tvg-logo="https://imagizer.imageshack.com/img924/4194/skmlbn.png" group-title="TR | ULUSAL",TR | TV 8.5 FHD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113433.m3u8
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR | KANAL7 FHD" tvg-logo="https://imagizer.imageshack.com/img923/1102/MPSqpF.png" group-title="TR | ULUSAL",TR | KANAL7 FHD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113445.m3u8
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR | KANAL 7 HD" tvg-logo="https://imagizer.imageshack.com/img923/1102/MPSqpF.png" group-title="TR | ULUSAL",TR | KANAL 7 HD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113447.m3u8
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR |  BEYAZTV HD" tvg-logo="https://imagizer.imageshack.com/img924/5906/2Dn1i0.png" group-title="TR | ULUSAL",TR |  BEYAZTV HD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113448.m3u8
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR | BEYAZTV HD" tvg-logo="https://imagizer.imageshack.com/img924/5906/2Dn1i0.png" group-title="TR | ULUSAL",TR | BEYAZTV HD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113421.m3u8
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR | TEVE 2 HD" tvg-logo="https://imagizer.imageshack.com/img923/5121/KzDoYk.png" group-title="TR | ULUSAL",TR | TEVE 2 HD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113424.m3u8
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR | TEVE 2  HD" tvg-logo="https://imagizer.imageshack.com/img923/5121/KzDoYk.png" group-title="TR | ULUSAL",TR | TEVE 2  HD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113437.m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR | 360 TV FHD" tvg-logo="https://imagizer.imageshack.com/img924/4799/fwTaob.png" group-title="TR | ULUSAL",TR | 360 TV FHD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113417.m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR | 360 TV HD" tvg-logo="https://imagizer.imageshack.com/img924/4799/fwTaob.png" group-title="TR | ULUSAL",TR | 360 TV HD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113435.m3u8
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR | A2 HD" tvg-logo="https://imagizer.imageshack.com/img924/7698/RCgsav.png" group-title="TR | ULUSAL",TR | A2 HD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113418.m3u8
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR | A2 HD" tvg-logo="https://imagizer.imageshack.com/img924/7698/RCgsav.png" group-title="TR | ULUSAL",TR | A2 HD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113439.m3u8
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR | EUROSTAR HD" tvg-logo="https://imagizer.imageshack.com/img922/8377/y5khdn.png" group-title="TR | ULUSAL",TR | EUROSTAR HD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113440.m3u8
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR | ATV AVRUPA HD" tvg-logo="https://imagizer.imageshack.com/img923/6576/3pwGYA.png" group-title="TR | ULUSAL",TR | ATV AVRUPA HD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113441.m3u8
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR | EURO D HD" tvg-logo="https://imagizer.imageshack.com/img924/2350/hh2Llb.png" group-title="TR | ULUSAL",TR | EURO D HD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113438.m3u8
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR | KANAL 7 AVRUPA HD" tvg-logo="https://imagizer.imageshack.com/img924/5453/4dD10C.png" group-title="TR | ULUSAL",TR | KANAL 7 AVRUPA HD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113443.m3u8
+#EXTINF:-1 tvg-id="trt2.tr" tvg-name="TR | TRT 2 HD" tvg-logo="https://imagizer.imageshack.com/img924/1129/dLHr4f.png" group-title="TR | ULUSAL",TR | TRT 2 HD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/113426.m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: FLASH HD+" tvg-logo="https://imagizer.imageshack.com/img922/7002/JYx9LR.png" group-title="TR | ULUSAL",TR: FLASH HD+
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/216544.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT AVAZ" tvg-logo="https://imagizer.imageshack.com/img924/491/swSTng.png" group-title="TR | ULUSAL",TR: TRT AVAZ
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/352960.m3u8
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV Hevc" tvg-logo="https://imagizer.imageshack.com/img923/596/5wGQVM.png" group-title="TR | ULUSAL HEVC",TR: ATV Hevc
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371812.m3u8
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV 8.5 Hevc" tvg-logo="https://imagizer.imageshack.com/img924/4194/skmlbn.png" group-title="TR | ULUSAL HEVC",TR: TV 8.5 Hevc
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371813.m3u8
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV 8 Hevc" tvg-logo="https://imagizer.imageshack.com/img924/623/jIaxCR.png" group-title="TR | ULUSAL HEVC",TR: TV 8 Hevc
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371814.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TEVE 2 HEVC" tvg-logo="https://imagizer.imageshack.com/img923/5121/KzDoYk.png" group-title="TR | ULUSAL HEVC",TR: TEVE 2 HEVC
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371815.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: A2 HEVC" tvg-logo="https://imagizer.imageshack.com/img924/7698/RCgsav.png" group-title="TR | ULUSAL HEVC",TR: A2 HEVC
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 100 HEVC" tvg-logo="https://imagizer.imageshack.com/img922/1266/FBSMZD.png" group-title="TR | ULUSAL HEVC",TR: TV 100 HEVC
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371817.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT TURK HEVC" tvg-logo="https://imagizer.imageshack.com/img923/2503/yH33d2.png" group-title="TR | ULUSAL HEVC",TR: TRT TURK HEVC
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371818.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT WORLD HEVC" tvg-logo="https://imagizer.imageshack.com/img924/5441/MTiHDU.png" group-title="TR | ULUSAL HEVC",TR: TRT WORLD HEVC
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371819.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER HEVC" tvg-logo="https://imagizer.imageshack.com/img924/4109/wlFN1G.png" group-title="TR | ULUSAL HEVC",TR: A HABER HEVC
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNN TÜRK HEVC" tvg-logo="https://imagizer.imageshack.com/img922/5630/th6Uwk.png" group-title="TR | ULUSAL HEVC",TR: CNN TÜRK HEVC
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371821.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER HEVC" tvg-logo="https://imagizer.imageshack.com/img922/5500/spAHBL.png" group-title="TR | ULUSAL HEVC",TR: TRT HABER HEVC
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371822.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLOOMBERG HT HEVC" tvg-logo="https://imagizer.imageshack.com/img924/7061/LVF4QL.png" group-title="TR | ULUSAL HEVC",TR: BLOOMBERG HT HEVC
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABER TURK HEVC" tvg-logo="https://imagizer.imageshack.com/img922/9387/zgx7uz.png" group-title="TR | ULUSAL HEVC",TR: HABER TURK HEVC
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371824.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT HABER HEVC" tvg-logo="https://imagizer.imageshack.com/img923/3426/9A6pOz.png" group-title="TR | ULUSAL HEVC",TR: TGRT HABER HEVC
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png" group-title="TR | ULUSAL HEVC",TR: A SPOR HEVC
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX HEVC" tvg-logo="https://static.epg.best/it/DMAX.it.png" group-title="TR | ULUSAL HEVC",TR: DMAX HEVC
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT HISTORY HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png" group-title="TR | ULUSAL HEVC",TR: VIASAT HISTORY HEVC
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT BELGESEL HEVC" tvg-logo="https://imagizer.imageshack.com/img922/408/V5Rjaq.png" group-title="TR | ULUSAL HEVC",TR: TRT BELGESEL HEVC
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal7_tr.png" group-title="TR | ULUSAL HEVC",TR: KANAL 7 HEVC
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/393156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 Hevc" tvg-logo="" group-title="TR | ULUSAL HEVC",TR: TRT 1 Hevc
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/393157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TV Hevc" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png" group-title="TR | ULUSAL HEVC",TR: SHOW TV Hevc
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/393158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D Hevc" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png" group-title="TR | ULUSAL HEVC",TR: KANAL D Hevc
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/393159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV Hevc" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" group-title="TR | ULUSAL HEVC",TR: STAR TV Hevc
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/393160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX TV Hevc" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png" group-title="TR | ULUSAL HEVC",TR: FOX TV Hevc
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/393161.m3u8
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 RAW" tvg-logo="https://imagizer.imageshack.com/img922/4571/VmZM8y.png" group-title="TR | ULUSAL RAW",TR: TRT 1 RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371831.m3u8
+#EXTINF:-1 tvg-id="trt2.tr" tvg-name="TR: TRT2 RAW" tvg-logo="https://imagizer.imageshack.com/img924/1129/dLHr4f.png" group-title="TR | ULUSAL RAW",TR: TRT2 RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371832.m3u8
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV RAW" tvg-logo="https://imagizer.imageshack.com/img923/596/5wGQVM.png" group-title="TR | ULUSAL RAW",TR: ATV RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371833.m3u8
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: Show TV RAW" tvg-logo="https://imagizer.imageshack.com/img924/956/7vUyHv.png" group-title="TR | ULUSAL RAW",TR: Show TV RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371834.m3u8
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR TV RAW" tvg-logo="https://imagizer.imageshack.com/img924/3654/BUi3z0.png" group-title="TR | ULUSAL RAW",TR: STAR TV RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371835.m3u8
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D RAW" tvg-logo="https://imagizer.imageshack.com/img922/9683/a7zKDi.png" group-title="TR | ULUSAL RAW",TR: KANAL D RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371836.m3u8
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR: FOX TV RAW" tvg-logo="https://imagizer.imageshack.com/img923/6819/pqacoY.png" group-title="TR | ULUSAL RAW",TR: FOX TV RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371837.m3u8
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV 8 RAW" tvg-logo="https://imagizer.imageshack.com/img924/623/jIaxCR.png" group-title="TR | ULUSAL RAW",TR: TV 8 RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371838.m3u8
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV 8 5 RAW" tvg-logo="https://imagizer.imageshack.com/img924/4194/skmlbn.png" group-title="TR | ULUSAL RAW",TR: TV 8 5 RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371839.m3u8
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR: A2 RAW" tvg-logo="https://imagizer.imageshack.com/img924/7698/RCgsav.png" group-title="TR | ULUSAL RAW",TR: A2 RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371840.m3u8
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR: BEYAZ TV RAW" tvg-logo="https://imagizer.imageshack.com/img924/5906/2Dn1i0.png" group-title="TR | ULUSAL RAW",TR: BEYAZ TV RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371841.m3u8
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 RAW" tvg-logo="https://imagizer.imageshack.com/img923/1102/MPSqpF.png" group-title="TR | ULUSAL RAW",TR: KANAL 7 RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371842.m3u8
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR: teve2 RAW" tvg-logo="https://imagizer.imageshack.com/img923/5121/KzDoYk.png" group-title="TR | ULUSAL RAW",TR: teve2 RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371843.m3u8
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="TR: NTV RAW" tvg-logo="https://imagizer.imageshack.com/img922/6431/I4bUCg.png" group-title="TR | ULUSAL RAW",TR: NTV RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371844.m3u8
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="TR: CNN TÜRK RAW" tvg-logo="https://imagizer.imageshack.com/img922/5630/th6Uwk.png" group-title="TR | ULUSAL RAW",TR: CNN TÜRK RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371845.m3u8
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="TR: A HABER RAW" tvg-logo="https://imagizer.imageshack.com/img924/4109/wlFN1G.png" group-title="TR | ULUSAL RAW",TR: A HABER RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371846.m3u8
+#EXTINF:-1 tvg-id="anews.tr" tvg-name="TR: A NEWS RAW" tvg-logo="https://imagizer.imageshack.com/img924/5605/7Mzuc8.png" group-title="TR | ULUSAL RAW",TR: A NEWS RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371847.m3u8
+#EXTINF:-1 tvg-id="apara.tr" tvg-name="TR: A PARA RAW" tvg-logo="https://imagizer.imageshack.com/img924/9036/Pty9Db.png" group-title="TR | ULUSAL RAW",TR: A PARA RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371848.m3u8
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: A SPOR RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png" group-title="TR | ULUSAL RAW",TR: A SPOR RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371849.m3u8
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: 24 RAW" tvg-logo="https://imagizer.imageshack.com/img922/3750/TJR6T4.png" group-title="TR | ULUSAL RAW",TR: 24 RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371850.m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: 360 RAW" tvg-logo="https://imagizer.imageshack.com/img924/4799/fwTaob.png" group-title="TR | ULUSAL RAW",TR: 360 RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371851.m3u8
+#EXTINF:-1 tvg-id="bloomberght.tr" tvg-name="TR: BLOOMBERGHT RAW" tvg-logo="https://imagizer.imageshack.com/img924/7061/LVF4QL.png" group-title="TR | ULUSAL RAW",TR: BLOOMBERGHT RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371852.m3u8
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TR: TRT BELGESEL RAW" tvg-logo="https://imagizer.imageshack.com/img922/408/V5Rjaq.png" group-title="TR | ULUSAL RAW",TR: TRT BELGESEL RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371853.m3u8
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TR: TRT COCUK RAW" tvg-logo="https://imagizer.imageshack.com/img924/4426/yoYJeS.png" group-title="TR | ULUSAL RAW",TR: TRT COCUK RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371854.m3u8
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TR: TRT HABER RAW" tvg-logo="https://imagizer.imageshack.com/img922/5500/spAHBL.png" group-title="TR | ULUSAL RAW",TR: TRT HABER RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371855.m3u8
+#EXTINF:-1 tvg-id="trtworld.tr" tvg-name="TR: TRT WORLD RAW" tvg-logo="https://imagizer.imageshack.com/img924/5441/MTiHDU.png" group-title="TR | ULUSAL RAW",TR: TRT WORLD RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371857.m3u8
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-name="TR: TRT TURK RAW" tvg-logo="https://imagizer.imageshack.com/img923/2503/yH33d2.png" group-title="TR | ULUSAL RAW",TR: TRT TURK RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371858.m3u8
+#EXTINF:-1 tvg-id="trtmuzik.tr" tvg-name="TR: TRT MUZIK RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TRT_M%C3%BCzik_logo.svg/1920px-TRT_M%C3%BCzik_logo.svg.png" group-title="TR | ULUSAL RAW",TR: TRT MUZIK RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371859.m3u8
+#EXTINF:-1 tvg-id="trtkurdi.tr" tvg-name="TR: TRT KURDI RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/TRT_Kurd%C3%AE_logosu.png" group-title="TR | ULUSAL RAW",TR: TRT KURDI RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371860.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BRT 1 RAW" tvg-logo="https://imagizer.imageshack.com/img922/7367/YECbhE.png" group-title="TR | ULUSAL RAW",TR: BRT 1 RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BRT 2 RAW" tvg-logo="https://imagizer.imageshack.com/img923/9716/1qe1Ww.png" group-title="TR | ULUSAL RAW",TR: BRT 2 RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371864.m3u8
+#EXTINF:-1 tvg-id="docubox.tr" tvg-name="TR: DOCUBOX RAW" tvg-logo="https://imagizer.imageshack.com/img922/3328/OzEnhL.png" group-title="TR | ULUSAL RAW",TR: DOCUBOX RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371865.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIGHTBOX RAW" tvg-logo="https://imagizer.imageshack.com/img922/7505/vzKssl.png" group-title="TR | ULUSAL RAW",TR: FIGHTBOX RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371866.m3u8
+#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="TR: SİNEMA 1001 RAW" tvg-logo="https://imagizer.imageshack.com/img923/2770/pXxu4E.png" group-title="TR | ULUSAL RAW",TR: SİNEMA 1001 RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371868.m3u8
+#EXTINF:-1 tvg-id="sinema1002.tr" tvg-name="TR: SİNEMA 1002 RAW" tvg-logo="https://imagizer.imageshack.com/img922/6415/yy65jk.png" group-title="TR | ULUSAL RAW",TR: SİNEMA 1002 RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371869.m3u8
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="TR: SİNEMA 2 RAW" tvg-logo="https://imagizer.imageshack.com/img922/4885/d4KCVa.png" group-title="TR | ULUSAL RAW",TR: SİNEMA 2 RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371870.m3u8
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR: SİNEMA AKSİYON RAW" tvg-logo="https://imagizer.imageshack.com/img924/535/ZYWvaN.png" group-title="TR | ULUSAL RAW",TR: SİNEMA AKSİYON RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371871.m3u8
+#EXTINF:-1 tvg-id="sinemaaksiyon2hd.tr" tvg-name="TR: SİNEMA AKSİYON 2 RAW" tvg-logo="https://imagizer.imageshack.com/img923/1480/yWYO4A.png" group-title="TR | ULUSAL RAW",TR: SİNEMA AKSİYON 2 RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371872.m3u8
+#EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-name="TR: SİNEMA AİLE RAW" tvg-logo="https://imagizer.imageshack.com/img924/6668/0qbmAo.png" group-title="TR | ULUSAL RAW",TR: SİNEMA AİLE RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371873.m3u8
+#EXTINF:-1 tvg-id="sinemaaile2hd.tr" tvg-name="TR: SİNEMA AİLE 2 RAW" tvg-logo="https://imagizer.imageshack.com/img923/4388/x7L3Nm.png" group-title="TR | ULUSAL RAW",TR: SİNEMA AİLE 2 RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA TV RAW" tvg-logo="https://imagizer.imageshack.com/img923/5813/zgzHTE.png" group-title="TR | ULUSAL RAW",TR: SİNEMA TV RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT HISTORY RAW" tvg-logo="https://imagizer.imageshack.com/img922/143/A8GOzy.png" group-title="TR | ULUSAL RAW",TR: VIASAT HISTORY RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: 24 KITCHEN HD RAW" tvg-logo="https://imagizer.imageshack.com/img924/2906/zDEl5b.png" group-title="TR | ULUSAL RAW",TR: 24 KITCHEN HD RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOOMERANG HD RAW" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boomerang_global.png" group-title="TR | ULUSAL RAW",TR: BOOMERANG HD RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BABY TV RAW" tvg-logo="https://imagizer.imageshack.com/img922/3028/k0vnQD.png" group-title="TR | ULUSAL RAW",TR: BABY TV RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL RAW" tvg-logo="https://imagizer.imageshack.com/img924/343/J2HuXl.png" group-title="TR | ULUSAL RAW",TR: DISCOVERY CHANNEL RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISNEY JUNIOR RAW" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="TR | ULUSAL RAW",TR: DISNEY JUNIOR RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY SCIENCE RAW" tvg-logo="https://imagizer.imageshack.com/img923/8707/A5PJiA.png" group-title="TR | ULUSAL RAW",TR: DISCOVERY SCIENCE RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX CRIME HD RAW" tvg-logo="https://imagizer.imageshack.com/img923/9312/8TJC9p.png" group-title="TR | ULUSAL RAW",TR: FOX CRIME HD RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FX HD RAW" tvg-logo="https://imagizer.imageshack.com/img924/889/WociBj.png" group-title="TR | ULUSAL RAW",TR: FX HD RAW
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/371890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN SPORT HABER FHD" tvg-logo="" group-title="TR | beIN SPORT ⚽",TR | beIN SPORT HABER FHD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/412301.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR |  beIN SPORT 1 4K" tvg-logo="https://imagizer.imageshack.com/img924/4668/3p1fYs.png" group-title="TR | beIN SPORT ⚽",TR |  beIN SPORT 1 4K
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/116592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN SPORT 1 PLATINUM X HD+ (MAC SAATİ ACIK)" tvg-logo="https://imagizer.imageshack.com/img924/4668/3p1fYs.png" group-title="TR | beIN SPORT ⚽",TR | beIN SPORT 1 PLATINUM X HD+ (MAC SAATİ ACIK)
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/121354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 2 SD" tvg-logo="" group-title="TR | beIN SPORT ⚽",| TR | BEIN SPORTS 1 HD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/350195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 2 HD" tvg-logo="" group-title="TR | beIN SPORT ⚽",| TR | BEIN SPORTS 2 HD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/399655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 2 FHD" tvg-logo="" group-title="TR | beIN SPORT ⚽",| TR | BEIN SPORTS 2 FHD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/399654.m3u8
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR | beIN SPORT 2 HD**" tvg-logo="https://imagizer.imageshack.com/img922/9745/uNKvor.png" group-title="TR | beIN SPORT ⚽",TR | beIN SPORT 2 HD**
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/259317.m3u8
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR | beIN SPORT 2 FHD" tvg-logo="https://imagizer.imageshack.com/img922/9745/uNKvor.png" group-title="TR | beIN SPORT ⚽",TR | beIN SPORT 2 FHD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/259318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 3 SD" tvg-logo="" group-title="TR | beIN SPORT ⚽",| TR | BEIN SPORTS 3 SD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/399659.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 3 HD" tvg-logo="" group-title="TR | beIN SPORT ⚽",| TR | BEIN SPORTS 3 HD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/399658.m3u8
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR | beIN SPORT 3 FHD*" tvg-logo="https://imagizer.imageshack.com/img923/992/M0TRnx.png" group-title="TR | beIN SPORT ⚽",TR | beIN SPORT 3 FHD*
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/78351.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 4 SD" tvg-logo="" group-title="TR | beIN SPORT ⚽",| TR | BEIN SPORTS 4 SD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/399662.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 4 HD" tvg-logo="" group-title="TR | beIN SPORT ⚽",| TR | BEIN SPORTS 4 HD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/399661.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 4 FHD" tvg-logo="" group-title="TR | beIN SPORT ⚽",| TR | BEIN SPORTS 4 FHD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/399660.m3u8
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR | beIN SPORT 4 HD*" tvg-logo="https://imagizer.imageshack.com/img924/3697/nLaSJB.png" group-title="TR | beIN SPORT ⚽",TR | beIN SPORT 4 HD*
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/78352.m3u8
+#EXTINF:-1 tvg-id="beinsport5.tr" tvg-name="TR| beIN SPORT 5 HD" tvg-logo="https://imagizer.imageshack.com/img922/6243/VgqcyQ.png" group-title="TR | beIN SPORT ⚽",TR| beIN SPORT 5 HD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/285817.m3u8
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR | beIN SPORT MAX 1 HD" tvg-logo="https://imagizer.imageshack.com/img924/9311/MYM4Ru.png" group-title="TR | beIN SPORT ⚽",TR | beIN SPORT MAX 1 HD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/78353.m3u8
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: b**N SP0RT MAX 2 HD+" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/beIN_Sports_MAX_2_TR_logo.png" group-title="TR | beIN SPORT ⚽",TR: b**N SP0RT MAX 2 HD+
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/408714.m3u8
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: b**N SP0RT MAX 2 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/beIN_Sports_MAX_2_TR_logo.png" group-title="TR | beIN SPORT ⚽",TR: b**N SP0RT MAX 2 HD
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/408715.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI- Kurtlar Vadisi 1" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI- Kurtlar Vadisi 1
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/415268.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI - Kurtlar Vadisi 2" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI - Kurtlar Vadisi 2
+http://amazingiptv.one:8080/live/Boomokaba/Koeln2022Zonguldak/415269.m3u8
